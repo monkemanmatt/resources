@@ -42,6 +42,7 @@ This page is a collection of all the links that have been useful to me throughou
 
 ### sound-packs (samples_packs / drum_kits) 
 - [DINMA](https://www.officialdinma.com/shop) nearly 50 packs of audio-goodness for free
+- [Zoomles](https://www.youtube.com/@zoomelssamples3267) free sample-packs (read the license!)
 - [music_2000_sample_library](https://soundpacks.com/free-sound-packs/music-2000-sample-library/) Banger Samples (vinyl scratches, vocals, etc.)
 - [Free Sound-Packs](https://soundpacks.com)
 - [Free Sounds](https://freesound.org/)
@@ -49,6 +50,8 @@ This page is a collection of all the links that have been useful to me throughou
 
 ## video_editing 
 ### VFX
+#### AE presets
+- [4pm shop](https://payhip.com/4pmvfx) makes rly cool ae edits, should check him out
 
 #### overlays (free)
 - [youtube-playlist 1](https://www.youtube.com/watch?v=ORa5wLF6Hr0&list=PLLY3ahhBZ3dZEIRMoBovjbu5OAKq1SWuG)
