@@ -41,9 +41,10 @@ This page will be dedicated to providing you with useful links to software, tuto
 ## video_editing 
 ### VFX
 
-#### overlays (from youtube)
-- [free_overlays_1](https://www.youtube.com/watch?v=ORa5wLF6Hr0&list=PLLY3ahhBZ3dZEIRMoBovjbu5OAKq1SWuG)
-- [free_overlays_2](https://www.youtube.com/watch?v=Hg9b2GwlVk4&list=PL9OdMIUuBl3b4II-9uRtLX6ASkUoAtc0t)
+#### overlays (free)
+- [youtube-playlist 1](https://www.youtube.com/watch?v=ORa5wLF6Hr0&list=PLLY3ahhBZ3dZEIRMoBovjbu5OAKq1SWuG)
+- [youtube-playlist 2](https://www.youtube.com/watch?v=Hg9b2GwlVk4&list=PL9OdMIUuBl3b4II-9uRtLX6ASkUoAtc0t)
+- [fxelements](https://www.fxelements.com/guide/free-videos-overlays)
 
 
 
