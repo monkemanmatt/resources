@@ -7,9 +7,13 @@ title: Welcome to the vault :)
 This page will be dedicated to providing you with useful links to software, tutorials, websites, and other stuff!
 The font used on this website can be found [here](https://github.com/IdreesInc/Minecraft-Font/tree/main)
 
+
+
 ## DISCLAIMER: 
 I am not sponsored by any of these creators and/or companies! 
 This page is a collection of all the links that have been useful to me throughout my life.
+
+
 
 ## utility (very useful)
 ### windows_tools
@@ -20,6 +24,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [Ninite](https://ninite.com/) quickly install everything you need
 - [QuickLook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-us&gl=US) quickly view your files without opening them every time
 
+
 ### media_tools and websites
 - [Wav2Bar](https://picorims.github.io/wav2bar-website/) open-source audio visualization programm 
 - [YouTube to mp3/mp4](https://de.convert2mp3.club/index_13.html) converts youtube-links to mp3 and mp4
@@ -28,9 +33,13 @@ This page is a collection of all the links that have been useful to me throughou
 - [Pexels](https://www.pexels.com/) free stock photos
 - [BlogGifl](https://en.bloggif.com/text) cool text with thousands of animated textures (used it for my website)
 
-### organization
+
+### organisation
 - [MILANOTE](https://www.milanote.com/refer/rcFNN4goXqxcauIRUX) cool online whiteboard thingy i use
 - [Notion](https://www.notion.com/product) does pretty much the same thing but i prefer milanote
+
+
+
 
 ## music_production 
 ### buy plug-ins here
@@ -62,6 +71,8 @@ This page is a collection of all the links that have been useful to me throughou
 - []()
 
 
+
+
 ## video_editing 
 ### VFX
 #### AE presets
@@ -74,6 +85,8 @@ This page is a collection of all the links that have been useful to me throughou
 
 #### tutorials
 - [BECOME A GEEKER](https://youtu.be/pQDpxspELcI?si=HNwLAxUBrEFe7y5P)
+
+
 
 
 ## design 
