@@ -4,8 +4,11 @@ body {
     font-family: 'MyCustomFont', sans-serif; /* Use your custom font */
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p {
     font-family: 'Minecraft', sans-serif; /* Ensure headings use the custom font */
+}
+p {
+    font-family: 'Minecraft', sans-serif; /* Ensure paragraphs use the custom font */
 }
 
 @font-face {
