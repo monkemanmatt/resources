@@ -6,7 +6,8 @@ to go back to my website click [here](https://monkemanmatt.webflow.io/)
 
 This page will be dedicated to providing you with useful links to software, tutorials, websites, and other stuff!
 
-Disclaimer: I am not sponsored by any of these creators and/or companies! 
+## DISCLAIMER: 
+I am not sponsored by any of these creators and/or companies! 
 This page is a collection of all the links that have been useful to me throughout my life.
 
 ## utility (very useful)
