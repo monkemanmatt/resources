@@ -7,4 +7,14 @@ a {
     color: #bb86fc; /* Light purple for links */
 }
 
+@font-face {
+    font-family: 'MyCustomFont'; /* Name you want to use for the font */
+    src: url('{{ '/fonts/mycustomfont.woff2' | relative_url }}') format('woff2'), /* Adjust the path and format */
+         url('{{ '/fonts/mycustomfont.woff' | relative_url }}') format('woff'),
+         url('{{ '/fonts/mycustomfont.ttf' | relative_url }}') format('truetype');
+    font-weight: normal; /* Adjust as needed */
+    font-style: normal; /* Adjust as needed */
+}
+
+
 /* Add more styles as needed for other elements */
