@@ -2,3 +2,5 @@ theme: minima
 title: monkemanmatt's useful links
 description: This is where I share cool links to make your work more efficient
 author: monkemanmatt
+
+dark_mode: true
