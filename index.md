@@ -5,26 +5,26 @@ This page will be dedicated to providing you with useful links such as software,
 
 ## utility (very useful)
 ### windows_tools
--[De-Bloat windows](https://github.com/ChrisTitusTech/winutil)
--[Check what's taking up your disk-space](https://www.diskanalyzer.com/)
--[File-explorer alternative](https://www.onecommander.com/)
--[Install multiple apps at once](https://ninite.com/)
--[search your entire disk-space](https://www.voidtools.com/downloads/)
+- [De-Bloat windows](https://github.com/ChrisTitusTech/winutil)
+- [Check what's taking up your disk-space](https://www.diskanalyzer.com/)
+- [File-explorer alternative](https://www.onecommander.com/)
+- [Install multiple apps at once](https://ninite.com/)
+- [search your entire disk-space](https://www.voidtools.com/downloads/)
 
 ## music_production 
 ### buy plug-ins
--[pluginboutique.com](https://www.pluginboutique.com/) 
+- [pluginboutique.com](https://www.pluginboutique.com/) 
 
 ### free plug-ins 
--[Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html)
--[Regrader](https://www.igorski.nl/download/regrader)
--[Panagment](https://www.auburnsounds.com/products/Panagement.html)
+- [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html)
+- [Regrader](https://www.igorski.nl/download/regrader)
+- [Panagment](https://www.auburnsounds.com/products/Panagement.html)
 
 ### samples_packs / drum_kits
--[free kits by DINMA](https://www.officialdinma.com/shop)
--[]()
--[]()
--[]()
+- [free kits by DINMA](https://www.officialdinma.com/shop)
+- []()
+- []()
+- []()
 
 
 ## video_editing 
