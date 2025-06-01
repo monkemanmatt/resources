@@ -55,8 +55,7 @@ This page is a collection of all the links that have been useful to me throughou
 ### useful links for any producer
 - [Voice Tag Gods](https://www.voicetaggods.com/) custom voicetags for a fair price
 - [sounds-resource](https://www.sounds-resource.com/) all retro game sounds for download
-- [producer plug sheet](https://docs.google.com/spreadsheets/u/0/d/1ycn6G6hi--89-1eEIBbl2Lgm4nHz3ONy5BI4RIIgdqI/htmlview#) this is but a section of a large document that was leaked 2 years ago. use at your own risk.
-- []()
+- [HISE](https://github.com/christophhart/HISE) make your own audio-plugins/vst
 - []()
 
 
@@ -70,6 +69,8 @@ This page is a collection of all the links that have been useful to me throughou
 - [overlay_pack_2](https://www.youtube.com/watch?v=Hg9b2GwlVk4&list=PL9OdMIUuBl3b4II-9uRtLX6ASkUoAtc0t) also a youtube playlist, use paired with an mp4 converter 
 - [FX Elements](https://www.fxelements.com/guide/free-videos-overlays) lots of free footage
 
+#### tutorials
+- [BECOME A GEEKER](https://youtu.be/pQDpxspELcI?si=HNwLAxUBrEFe7y5P)
 
 
 ## design 
