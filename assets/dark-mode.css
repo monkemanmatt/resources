@@ -11,6 +11,20 @@ p {
     font-family: 'Minecraft', sans-serif; /* Ensure paragraphs use the custom font */
 }
 
+a {
+    color: #ffaaf2; /* Change this to your desired link color */
+    text-decoration: none; /* Optional: remove underline */
+}
+
+a:hover {
+    color: #faf0ca; /* Change this to your desired hover color */
+    text-decoration: underline; /* Optional: add underline on hover */
+}
+
+a:visited {
+    color: #ffaaf2; /* Change this to your desired visited link color */
+}
+
 @font-face {
     font-family: 'Minecraft'; /* Name you want to use for the font */
     src: url('{{ '/assets/Minecraft.otf' | relative_url }}') format('truetype');
