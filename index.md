@@ -40,7 +40,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [QuietMusic](https://quietmusic.eu/) they have lots of cool and nice-sounding plug-ins
 - [HalfTime](https://www.cableguys.com/halftime) does what it says
 - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html) cool pitch plug-in
-- []()
+- [Strum](https://lese.io/plugin/strum/) strum any sound
 
 ### sound-packs (samples_packs / drum_kits) 
 - [DINMA](https://www.officialdinma.com/shop) nearly 50 packs of audio-goodness for free
