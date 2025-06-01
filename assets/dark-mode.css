@@ -9,9 +9,7 @@ a {
 
 @font-face {
     font-family: 'MyCustomFont'; /* Name you want to use for the font */
-    src: url('{{ '/fonts/mycustomfont.woff2' | relative_url }}') format('woff2'), /* Adjust the path and format */
-         url('{{ '/fonts/mycustomfont.woff' | relative_url }}') format('woff'),
-         url('{{ '/fonts/mycustomfont.ttf' | relative_url }}') format('truetype');
+    src: url('{{ '/assets/Minecraft.otf' | relative_url }}') format('truetype');
     font-weight: normal; /* Adjust as needed */
     font-style: normal; /* Adjust as needed */
 }
