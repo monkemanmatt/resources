@@ -1,7 +1,7 @@
 ---
 title: Welcome to the vault :)
 ---
-This page will be dedicated to providing you with useful links such as software, tutorials, websites, and other stuff!
+This page will be dedicated to providing you with useful links to software, tutorials, websites, and other stuff!
 
 ## utility (very useful)
 ### windows_tools
@@ -10,14 +10,13 @@ This page will be dedicated to providing you with useful links such as software,
 - [File-explorer alternative](https://www.onecommander.com/)
 - [Install multiple apps at once](https://ninite.com/)
 - [search your entire disk-space](https://www.voidtools.com/downloads/)
-- [convert to mp3/mp4](https://de.convert2mp3.club/index_13.html)
 
 ### media_tools
-- [audio visualization](https://picorims.github.io/wav2bar-website/)
-
+- [Wav2Bar (audio visualization)](https://picorims.github.io/wav2bar-website/)
+- [YouTube to mp3/mp4](https://de.convert2mp3.club/index_13.html)
+- [YouTube to .wav]()
 
 ## music_production 
-
 ### buy plug-ins
 - [pluginboutique.com](https://www.pluginboutique.com/) 
 
