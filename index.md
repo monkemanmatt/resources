@@ -15,10 +15,12 @@ This page is a collection of all the links that have been useful to me throughou
 - [Ninite](https://ninite.com/) quickly install everything you need
 - [QuickLook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-us&gl=US) quickly view your files without opening them every time
 
-### media_tools
+### media_tools and websites
 - [Wav2Bar](https://picorims.github.io/wav2bar-website/) open-source audio visualization programm 
 - [YouTube to mp3/mp4](https://de.convert2mp3.club/index_13.html) converts youtube-links to mp3 and mp4
 - [YouTube to WAV](https://yttowav.com/) converts youtube-links to .wav files
+- [ezGif](https://ezgif.com/) turn gifs into videos, crop gifs, basically anything you'd need for your silly gifs
+- [Pexels](https://www.pexels.com/) free stock photos
 
 ### organization
 - [MILANOTE](https://www.milanote.com/refer/rcFNN4goXqxcauIRUX) cool online whiteboard thingy i use
@@ -46,6 +48,13 @@ This page is a collection of all the links that have been useful to me throughou
 - [music_2000_sample_library](https://soundpacks.com/free-sound-packs/music-2000-sample-library/) Banger Samples (vinyl scratches, vocals, etc.)
 - [Free Sound-Packs](https://soundpacks.com)
 - [Free Sounds](https://freesound.org/)
+
+### useful links for any producer
+- [Voice Tag Gods](https://www.voicetaggods.com/) custom voicetags for a fair price
+- [sounds-resource](https://www.sounds-resource.com/) all retro game sounds for download
+- []()
+- []()
+- []()
 
 
 ## video_editing 
