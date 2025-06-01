@@ -1,6 +1,8 @@
 ---
 title: Welcome to the vault :)
 ---
+to go back to my website click [here](https://monkemanmatt.webflow.io/) 
+
 This page will be dedicated to providing you with useful links to software, tutorials, websites, and other stuff!
 
 Disclaimer: I am not sponsored by any of these creators and/or companies! 
@@ -21,6 +23,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [YouTube to WAV](https://yttowav.com/) converts youtube-links to .wav files
 - [ezGif](https://ezgif.com/) turn gifs into videos, crop gifs, basically anything you'd need for your silly gifs
 - [Pexels](https://www.pexels.com/) free stock photos
+- [BlogGifl](https://en.bloggif.com/text) cool text with thousands of animated textures (used it for my website)
 
 ### organization
 - [MILANOTE](https://www.milanote.com/refer/rcFNN4goXqxcauIRUX) cool online whiteboard thingy i use
@@ -52,7 +55,7 @@ This page is a collection of all the links that have been useful to me throughou
 ### useful links for any producer
 - [Voice Tag Gods](https://www.voicetaggods.com/) custom voicetags for a fair price
 - [sounds-resource](https://www.sounds-resource.com/) all retro game sounds for download
-- []()
+- [producer plug sheet](https://docs.google.com/spreadsheets/u/0/d/1ycn6G6hi--89-1eEIBbl2Lgm4nHz3ONy5BI4RIIgdqI/htmlview#) this is but a section of a large document that was leaked 2 years ago. use at your own risk.
 - []()
 - []()
 
