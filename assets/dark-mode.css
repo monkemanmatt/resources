@@ -1,14 +1,15 @@
 body {
     background-color: #121212; /* Dark background */
     color: #ffffff; /* Light text color */
+    font-family: 'MyCustomFont', sans-serif; /* Use your custom font */
 }
 
-a {
-    color: #bb86fc; /* Light purple for links */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Minecraft', sans-serif; /* Ensure headings use the custom font */
 }
 
 @font-face {
-    font-family: 'MyCustomFont'; /* Name you want to use for the font */
+    font-family: 'Minecraft'; /* Name you want to use for the font */
     src: url('{{ '/assets/Minecraft.otf' | relative_url }}') format('truetype');
     font-weight: normal; /* Adjust as needed */
     font-style: normal; /* Adjust as needed */
