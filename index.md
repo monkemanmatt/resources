@@ -16,17 +16,17 @@ This page is a collection of all the links that have been useful to me throughou
 - [QuickLook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-us&gl=US) quickly view your files without opening them every time
 
 ### media_tools
-- [Wav2Bar (audio visualization)](https://picorims.github.io/wav2bar-website/)
-- [YouTube to mp3/mp4](https://de.convert2mp3.club/index_13.html)
-- [YouTube to .wav]()
+- [Wav2Bar](https://picorims.github.io/wav2bar-website/) open-source audio visualization programm 
+- [YouTube to mp3/mp4](https://de.convert2mp3.club/index_13.html) converts youtube-links to mp3 and mp4
+- [YouTube to WAV](https://yttowav.com/) converts youtube-links to .wav files
 
 ### organization
 - [MILANOTE](https://www.milanote.com/refer/rcFNN4goXqxcauIRUX) cool online whiteboard thingy i use
-
+- [Notion](https://www.notion.com/product) does pretty much the same thing but i prefer milanote
 
 ## music_production 
 ### buy plug-ins here
-- [pluginboutique.com](https://www.pluginboutique.com/) 
+- [pluginboutique.com](https://www.pluginboutique.com/) literally the best place to get your plugins
 
 ### free plug-ins 
 - [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html) virtual amplifier that uses .txt files as configs
@@ -36,8 +36,8 @@ This page is a collection of all the links that have been useful to me throughou
 
 ### paid plugins that i recommend
 - [QuietMusic](https://quietmusic.eu/) they have lots of cool and nice-sounding plug-ins
-- [HalfTime](https://www.cableguys.com/halftime)
-- [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
+- [HalfTime](https://www.cableguys.com/halftime) does what it says
+- [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html) cool pitch plug-in
 - []()
 
 ### sound-packs (samples_packs / drum_kits) 
@@ -54,18 +54,25 @@ This page is a collection of all the links that have been useful to me throughou
 - [4pm shop](https://payhip.com/4pmvfx) makes rly cool ae edits, should check him out
 
 #### overlays (free)
-- [youtube-playlist 1](https://www.youtube.com/watch?v=ORa5wLF6Hr0&list=PLLY3ahhBZ3dZEIRMoBovjbu5OAKq1SWuG)
-- [youtube-playlist 2](https://www.youtube.com/watch?v=Hg9b2GwlVk4&list=PL9OdMIUuBl3b4II-9uRtLX6ASkUoAtc0t)
-- [fxelements](https://www.fxelements.com/guide/free-videos-overlays)
+- [overlay_pack_1](https://www.youtube.com/watch?v=ORa5wLF6Hr0&list=PLLY3ahhBZ3dZEIRMoBovjbu5OAKq1SWuG) youtube playlist
+- [overlay_pack_2](https://www.youtube.com/watch?v=Hg9b2GwlVk4&list=PL9OdMIUuBl3b4II-9uRtLX6ASkUoAtc0t) also a youtube playlist, use paired with an mp4 converter 
+- [FX Elements](https://www.fxelements.com/guide/free-videos-overlays) lots of free footage
 
 
 
-## graphic_design 
-### colours and pallettes
+## design 
+### game-design and pixelart
+- [spriters-resource](https://www.spriters-resource.com/) basically every pritesheet from every game (maybe)
+- [models-resource](https://www.models-resource.com/) same thing but for 3d models
+- [textures-resource](https://www.textures-resource.com/) same thing but it's textures!
+- [sounds-resource](https://www.sounds-resource.com/) no way!!! 
+
+
+### graphics-design
 #### for inspo and colour picking: 
-- [Adobe Color](https://color.adobe.com/explore)
-- [Real Time Colors](https://www.realtimecolors.com/)
-- [Coolors Generator](https://coolors.co/540d6e-ee4266-ffd23f-f3fcf0-1f271b)
+- [Adobe Color](https://color.adobe.com/explore) always gets me inspired (att least when i choose to use it)
+- [Real Time Colors](https://www.realtimecolors.com/) allows you to view your pallettes on an actual website 
+- [Coolors Generator](https://coolors.co/540d6e-ee4266-ffd23f-f3fcf0-1f271b) color-pallette generator
 - [Look at award-winning websites](https://www.awwwards.com/websites/)
 - [Look at Designs](https://dribbble.com/)
 
