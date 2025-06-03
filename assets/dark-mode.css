@@ -3,8 +3,11 @@ body {
     color: #faf0ca; /* Light text color */
     font-family: 'Minecraft', sans-serif; /* Use your custom font */
 }
-
-h1, h2, h3, h4, h5, h6, {
+h1, {
+    font-family: 'Minecraft', sans-serif;
+    color: #ffaaf2;
+}
+h2, h3, h4, h5, h6, {
     font-family: 'Minecraft', sans-serif; /* Ensure headings use the custom font */
 }
 p {
