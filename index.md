@@ -68,7 +68,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [Voice Tag Gods](https://www.voicetaggods.com/) custom voicetags for a fair price
 - [sounds-resource](https://www.sounds-resource.com/) all retro game sounds for download
 - [HISE](https://github.com/christophhart/HISE) make your own audio-plugins/vst
-- []()
+- [jBridge](https://jstuff.wordpress.com/jbridge/) convert 32bit vsts to 64
 
 
 
