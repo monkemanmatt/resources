@@ -49,6 +49,8 @@ This page is a collection of all the links that have been useful to me throughou
 ### free plug-ins 
 - [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html) virtual amplifier that uses .txt files as configs
 - [Regrader](https://www.igorski.nl/download/regrader) makes cool sounds
+- [Voxengo Delay](https://www.voxengo.com/product/sounddelay/)
+- [Voxengo](https://www.voxengo.com) other voxengo plug-ins
 - [Panagment](https://www.auburnsounds.com/products/Panagement.html) intuitive panning plug-in
 - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
 
