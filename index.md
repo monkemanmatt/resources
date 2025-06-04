@@ -20,7 +20,6 @@ This page is a collection of all the links that have been useful to me throughou
 - [CTT](https://github.com/ChrisTitusTech/winutil) tool to de-bloat windows
 - [WizTree](https://www.diskanalyzer.com/) check what's taking up all your disk-space
 - [Everything](https://www.voidtools.com/downloads/) search your entire disk-space quickly
-- [OneCommander](https://www.onecommander.com/) file-explorer alternative
 - [Ninite](https://ninite.com/) quickly install everything you need
 - [QuickLook](https://apps.microsoft.com/detail/9nv4bs3l1h4s?hl=en-us&gl=US) quickly view your files without opening them every time
 
@@ -31,10 +30,12 @@ This page is a collection of all the links that have been useful to me throughou
 - [YouTube to WAV](https://yttowav.com/) converts youtube-links to .wav files
 - [ezGif](https://ezgif.com/) turn gifs into videos, crop gifs, basically anything you'd need for your silly gifs
 - [Pexels](https://www.pexels.com/) free stock photos
-- [BlogGifl](https://en.bloggif.com/text) cool text with thousands of animated textures (used it for my website)
+- [BloggGif](https://en.bloggif.com/text) cool text with thousands of animated textures (used it for my website)
+- -[panzoid](https://panzoid.com/creations) make yourself a super epic 3d gamer intro online (super epic!!!)
 
 
 ### organisation
+- [OneCommander](https://www.onecommander.com/) file-explorer alternative
 - [MILANOTE](https://www.milanote.com/refer/rcFNN4goXqxcauIRUX) cool online whiteboard thingy i use
 - [Notion](https://www.notion.com/product) does pretty much the same thing but i prefer milanote
 
@@ -57,7 +58,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html) cool pitch plug-in
 - [Strum](https://lese.io/plugin/strum/) strum any sound
 
-### sound-packs (samples_packs / drum_kits) 
+### sound-packs (samples and drum-kits)
 - [SampleSwap](https://sampleswap.org/filebrowser-new.php) big ahh sample pack (drum breaks, ambient, fx, etc.)
 - [DINMA](https://www.officialdinma.com/shop) nearly 50 packs of audio-goodness for free
 - [Zoomles](https://www.youtube.com/@zoomelssamples3267) free sample-packs (read the license!)
