@@ -73,6 +73,9 @@ This page is a collection of all the links that have been useful to me throughou
 - [HISE](https://github.com/christophhart/HISE) make your own audio-plugins/vst
 - [jBridge](https://jstuff.wordpress.com/jbridge/) convert 32bit vsts to 64
 
+### videos
+- [Headphones Are Not Stereo (mid side phase trickery)](https://youtu.be/uZ9WQDojQt8?si=CoLu_FVFPMAjsrnk)
+
 
 
 
