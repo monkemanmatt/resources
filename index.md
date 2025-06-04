@@ -31,7 +31,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [ezGif](https://ezgif.com/) turn gifs into videos, crop gifs, basically anything you'd need for your silly gifs
 - [Pexels](https://www.pexels.com/) free stock photos
 - [BloggGif](https://en.bloggif.com/text) cool text with thousands of animated textures (used it for my website)
-- -[panzoid](https://panzoid.com/creations) make yourself a super epic 3d gamer intro online (super epic!!!)
+- [panzoid](https://panzoid.com/creations) make yourself a super epic 3d gamer intro online (super epic!!!)
 
 
 ### organisation
