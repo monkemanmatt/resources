@@ -61,6 +61,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [DINMA](https://www.officialdinma.com/shop) nearly 50 packs of audio-goodness for free
 - [Zoomles](https://www.youtube.com/@zoomelssamples3267) free sample-packs (read the license!)
 - [music_2000_sample_library](https://soundpacks.com/free-sound-packs/music-2000-sample-library/) Banger Samples (vinyl scratches, vocals, etc.)
+- [ProducerGrind](https://producergrind.com/collections/free-packs) very good! free and paid 
 - [Free Sound-Packs](https://soundpacks.com)
 - [Free Sounds](https://freesound.org/)
 
