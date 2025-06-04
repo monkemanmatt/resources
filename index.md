@@ -53,6 +53,8 @@ This page is a collection of all the links that have been useful to me throughou
 - [Voxengo](https://www.voxengo.com) other voxengo plug-ins
 - [Panagment](https://www.auburnsounds.com/products/Panagement.html) intuitive panning plug-in
 - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
+- [Poise](https://www.onesmallclue.com/) percussion sampler
+- [Momentum](https://www.bigfishaudio.com/momentum.html) free version of 
 
 ### paid plugins that i recommend
 - [QuietMusic](https://quietmusic.eu/) they have lots of cool and nice-sounding plug-ins
