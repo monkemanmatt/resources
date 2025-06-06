@@ -63,6 +63,7 @@ This page is a collection of all the links that have been useful to me throughou
 - [Strum](https://lese.io/plugin/strum/) strum any sound
 
 ### sound-packs (samples and drum-kits)
+- [Cymatics](https://cymatics.fm/free-download-vault/) lots of free AND paid stuff to your heart's content
 - [SampleSwap](https://sampleswap.org/filebrowser-new.php) big ahh sample pack (drum breaks, ambient, fx, etc.)
 - [DINMA](https://www.officialdinma.com/shop) nearly 50 packs of audio-goodness for free
 - [Zoomles](https://www.youtube.com/@zoomelssamples3267) free sample-packs (read the license!)
