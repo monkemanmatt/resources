@@ -53,18 +53,22 @@ This page is a collection of all the links that have been useful to me throughou
   - [Free Suite](https://www.vennaudio.com/free-suite/) 9 plugins without having to sign up anywhere
   - [Blue Cat](https://www.bluecataudio.com/Products/Bundle_FreewarePack/) 7 plugin bundle - includes mid/side eq
   - [Voxengo](https://www.voxengo.com) mostly free plugins (very good!)
+
 #### instruments
   - [Vital](https://vital.audio/) best serum alternative
   - [Surge XT](https://surge-synthesizer.github.io/) hybrid synth with lots of cool presets
   - [PolyMAX](https://www.uaudio.com/products/polymax-synth) free "retro" synth by UAD (also really nice presets)
   - [TCHC](https://thecrowhillcompany.com/vaults/) nice instruments with a cool ui
+
 #### for mastering
   - [Limiter 6](https://www.tokyodawn.net/vladg-limiter-n6/https://www.tokyodawn.net/vladg-limiter-n6/) limiter with 5 modules
   - [W1 Limiter](https://www.yohng.com/software/w1limit.html) minimalistic clone of Waves L1 by [George Yohng](https://www.youtube.com/gyohng)
   - [Clip Shifter](https://lvcaudio.com/plugins/clipshifter/) free limiter
   - [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/) very gud compressor :)
+
 #### EQs
   - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) free dynamic eq
+
 #### Creative FX
   - [Spiral Delay](https://www.davisynth.com/product/spiral-delay/) amazing delay that just sounds unique
   - [TSV](https://wavearts.com/products/plugins/tube-saturator-vintage/) free vintage saturator
@@ -74,7 +78,8 @@ This page is a collection of all the links that have been useful to me throughou
   - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
   - [Poise](https://www.onesmallclue.com/) percussion sampler
   - [Momentum](https://www.bigfishaudio.com/momentum.html) free alternative to serato sample
-#### GTR amps
+
+#### guitar amps
   - [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html) virtual amplifier that uses .txt files as configs
 
 ### paid plugins that i recommend
