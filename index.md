@@ -47,23 +47,28 @@ This page is a collection of all the links that have been useful to me throughou
 - [pluginboutique.com](https://www.pluginboutique.com/) literally the best place to get your plugins
 
 ### free plug-ins 
-- [Kilohearts bundle](https://kilohearts.com/products/kilohearts_essentials) 34 plugins for free :O
-- [MeldaProduction](https://www.meldaproduction.com/MFreeFXBundle) 38 free plugins (need license to save/load presets)
-- [Free Suite](https://www.vennaudio.com/free-suite/) 9 plugins without having to sign up anywhere
-- [Blue Cat](https://www.bluecataudio.com/Products/Bundle_FreewarePack/) 7 plugin bundle - includes mid/side eq
-- [W1 Limiter](https://www.yohng.com/software/w1limit.html) minimalistic clone of Waves L1 by [George Yohng](https://www.youtube.com/gyohng)
-- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) free dynamic eq
-- [Clip Shifter](https://lvcaudio.com/plugins/clipshifter/) free limiter
-- [Spiral Delay](https://www.davisynth.com/product/spiral-delay/) amazing delay that just sounds unique
-- [TSV](https://wavearts.com/products/plugins/tube-saturator-vintage/) free vintage saturator
-- [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html) virtual amplifier that uses .txt files as configs
-- [Regrader](https://www.igorski.nl/download/regrader) makes cool sounds
-- [Voxengo Delay](https://www.voxengo.com/product/sounddelay/)
-- [Voxengo](https://www.voxengo.com) other voxengo plug-ins
-- [Panagment](https://www.auburnsounds.com/products/Panagement.html) intuitive panning plug-in
-- [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
-- [Poise](https://www.onesmallclue.com/) percussion sampler
-- [Momentum](https://www.bigfishaudio.com/momentum.html) free alternative to serato sample
+  #### Bundles
+  - [Kilohearts bundle](https://kilohearts.com/products/kilohearts_essentials) 34 plugins for free :O
+  - [MeldaProduction](https://www.meldaproduction.com/MFreeFXBundle) 38 free plugins (need license to save/load presets)
+  - [Free Suite](https://www.vennaudio.com/free-suite/) 9 plugins without having to sign up anywhere
+  - [Blue Cat](https://www.bluecataudio.com/Products/Bundle_FreewarePack/) 7 plugin bundle - includes mid/side eq
+  - [Voxengo](https://www.voxengo.com) mostly free plugins (very good!)
+  #### Limiter
+  - [W1 Limiter](https://www.yohng.com/software/w1limit.html) minimalistic clone of Waves L1 by [George Yohng](https://www.youtube.com/gyohng)
+  - [Clip Shifter](https://lvcaudio.com/plugins/clipshifter/) free limiter
+  #### EQs
+  - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) free dynamic eq
+  #### Creative FX
+  - [Spiral Delay](https://www.davisynth.com/product/spiral-delay/) amazing delay that just sounds unique
+  - [TSV](https://wavearts.com/products/plugins/tube-saturator-vintage/) free vintage saturator
+  - [Regrader](https://www.igorski.nl/download/regrader) makes cool sounds
+  - [Voxengo Delay](https://www.voxengo.com/product/sounddelay/)
+  - [Panagment](https://www.auburnsounds.com/products/Panagement.html) intuitive panning plug-in
+  - [InnerPitch](https://www.auburnsounds.com/products/InnerPitch.html)
+  - [Poise](https://www.onesmallclue.com/) percussion sampler
+  - [Momentum](https://www.bigfishaudio.com/momentum.html) free alternative to serato sample
+  #### GTR amps
+  - [Amplex](https://nalexplugins.blogspot.com/2024/11/amplex-multiamp.html) virtual amplifier that uses .txt files as configs
 
 ### paid plugins that i recommend
 - [QuietMusic](https://quietmusic.eu/) they have lots of cool and nice-sounding plug-ins
