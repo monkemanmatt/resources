@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to KNOWLEDGE! :)
+title: Welcome! :)
 ---
 ## to go back to my website click [here](https://monkemanmatt.webflow.io/) 
 
